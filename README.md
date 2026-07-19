@@ -13,4 +13,8 @@
 |  |
 | ------- |
 | [1226-the-dining-philosophers](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1226-the-dining-philosophers) |
+## String
+|  |
+| ------- |
+| [0065-valid-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0065-valid-number) |
 <!---LeetCode Topics End-->
