@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,4 +67,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
