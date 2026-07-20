@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0035-search-insert-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0029-divide-two-integers) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
