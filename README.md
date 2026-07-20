@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0009-palindrome-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
