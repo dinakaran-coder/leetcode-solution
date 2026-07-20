@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0035-search-insert-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | [0009-palindrome-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Geometry
 |  |
 | ------- |
