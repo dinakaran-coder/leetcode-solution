@@ -21,6 +21,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0065-valid-number) |
 | [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0344-reverse-string) |
