@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Concurrency
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0008-string-to-integer-atoi](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0065-valid-number) |
+| [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
