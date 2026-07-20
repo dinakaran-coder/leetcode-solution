@@ -71,8 +71,17 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [1603-design-parking-system](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
