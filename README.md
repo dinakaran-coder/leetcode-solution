@@ -25,6 +25,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Geometry
 |  |
@@ -34,4 +35,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
