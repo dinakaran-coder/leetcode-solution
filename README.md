@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0035-search-insert-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1470-shuffle-the-array](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
