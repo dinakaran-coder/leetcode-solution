@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0065-valid-number) |
 ## Math
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
