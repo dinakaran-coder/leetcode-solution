@@ -20,6 +20,7 @@
 | ------- |
 | [1114-print-in-order](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1115-print-foobar-alternately) |
+| [1116-print-zero-even-odd](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1116-print-zero-even-odd) |
 | [1226-the-dining-philosophers](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1226-the-dining-philosophers) |
 ## String
 |  |
