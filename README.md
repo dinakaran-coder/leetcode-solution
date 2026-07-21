@@ -16,6 +16,7 @@
 | [0001-two-sum](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Concurrency
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
