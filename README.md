@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
+| [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
 ## Concurrency
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -100,4 +102,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
