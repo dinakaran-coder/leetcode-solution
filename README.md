@@ -15,6 +15,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0771-jewels-and-stones](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Concurrency
@@ -39,6 +40,7 @@
 | [0415-add-strings](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
