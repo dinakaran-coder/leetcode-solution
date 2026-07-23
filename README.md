@@ -11,6 +11,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1470-shuffle-the-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dinakaran-coder/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [1108-defanging-an-ip-address](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dinakaran-coder/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | [0125-valid-palindrome](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1768-merge-strings-alternately) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/dinakaran-coder/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Trie
 |  |
 | ------- |
