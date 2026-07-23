@@ -130,9 +130,19 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0100-same-tree) |
 | [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0100-same-tree) |
 | [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
