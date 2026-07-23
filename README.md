@@ -48,6 +48,7 @@
 | [0771-jewels-and-stones](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1768-merge-strings-alternately](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/dinakaran-coder/leetcode-solution/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
@@ -60,6 +61,7 @@
 | [0509-fibonacci-number](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Geometry
 |  |
 | ------- |
