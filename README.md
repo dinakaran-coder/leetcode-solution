@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0035-search-insert-position) |
 | [0500-keyboard-row](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0705-design-hashset) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1470-shuffle-the-array) |
@@ -18,6 +19,7 @@
 | [0001-two-sum](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0500-keyboard-row) |
+| [0705-design-hashset](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0705-design-hashset](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0705-design-hashset) |
 | [1600-throne-inheritance](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1600-throne-inheritance) |
 | [1603-design-parking-system](https://github.com/dinakaran-coder/leetcode-solution/tree/master/1603-design-parking-system) |
 ## Queue
@@ -145,4 +148,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0100-same-tree) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/dinakaran-coder/leetcode-solution/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
